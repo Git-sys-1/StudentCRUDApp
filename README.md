@@ -1,3 +1,6 @@
+javac StudentCRUDApp.java
+ java StudentCRUDApp
+
 ===== Student Management System 
 1. Add Student
 2. View Students
